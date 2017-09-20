@@ -65,7 +65,13 @@ function show_key(){
 		clearTimeout(_jishi);
 		var art_text	= document.getElementById('art_text');
 		art_text.style.paddingLeft = '0px';
-		art_text.innerHTML='<h3>O(∩_∩)O哈哈~ 恭喜你已经完成本次测试！</h3>';
+		var xdStr = '<h3>恭喜你完成测试！';
+		
+		xdStr += '时间：';
+		xdStr += get_date(time_cha);
+		
+		xdStr += '</h3>';
+		art_text.innerHTML = xdStr;
 		document.getElementById('jindu').innerHTML = '进度：100 %';
 	}
 }
