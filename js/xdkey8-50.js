@@ -2,7 +2,7 @@
 var key_data = new Array('键位课程五：C ,',
 "cdcd",
 "cdcd",
-",k,k", 
+",k,k,c,d", 
 "cd,k",
 "cd,k",
 "dac,", 
