@@ -1,4 +1,4 @@
-### [v0.2.2](https://github.com/shanuan/englishtyping/edit/master/README.md) |
+### [v0.2.3](https://github.com/shanuan/englishtyping/edit/master/README.md) |
 [https://shanuan-blog/](https://shanuan.github.io/blog)
 ### [1.键盘布局(KeyBoard Layout)](index1.html) 
 ### [2.手指分区练习](index2.html) 
@@ -11,8 +11,8 @@
 ### [9.键位课程六：y t](index9.html) | [xd9-50](xd9-50.html)
 ### [10.键位课程七：m v](index10.html)| [xd10-50](xd10-50.html)
 ### [11.键位课程八：b n](index11.html)| [xd11-50](xd11-50.html)
-</option><option value="index12.html" >12.键位课程九：o w
-</option><option value="index13.html" >13.键位课程十：p q z
+### [12.12.键位课程九：o w](index12.html)| [xd12-50](xd12-50.html)
+### [13.键位课程十：p q z](index13.html)| [xd13-50](xd12-50.html) 
 </option><option value="index14.html" >14.键位课程11：x .
 </option><option value="index15.html" >15.键位课程13:0-9
 </option><option value="index16.html" >16.键位课程12：Capital-大写
