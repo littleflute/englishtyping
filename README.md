@@ -1,5 +1,5 @@
-### [v0.2.6](https://github.com/shanuan/englishtyping/edit/master/README.md) |
-[https://shanuan-blog/](https://shanuan.github.io/blog)
+### [v0.2.7](https://github.com/shanuan/englishtyping/edit/master/README.md) |
+[https://shanuan.github.io/blog/](https://shanuan.github.io/blog)
 ### [1.键盘布局(KeyBoard Layout)](index1.html) 
 ### [2.手指分区练习](index2.html) 
 ### [3.键位纠错练习](index3.html)
